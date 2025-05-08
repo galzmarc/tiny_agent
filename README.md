@@ -20,8 +20,8 @@ It uses [LangGraph](https://github.com/langchain-ai/langgraph) to define a simpl
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/ai-resume-optimizer.git
-   cd ai-resume-optimizer
+   git clone https://github.com/galzmarc/tiny_agent
+   cd tiny_agent
 
 2. Create a virtual environment and install dependencies:
     ```bash
